@@ -20,6 +20,7 @@
         {{ error }}
       </p>
     {% else %}
+      <!-- keeps a live region for future errors -->
       <p id="error-{{ task.id }}" class="visually-hidden" aria-live="assertive"></p>
     {% endif %}
 
