@@ -1,0 +1,17 @@
+timestamp,participant_id,request_id,task_id,outcome,duration_ms,error
+2026-01-19T20:33:35.175876Z,P1,r_aec83b9e,T0_list,success,138,
+2026-01-19T20:33:51.984202Z,P1,r_d66ebb05,T3_add,success,340,
+2026-01-19T20:34:16.308638Z,P1,r_55903b67,T3_add,success,320,
+2026-01-19T20:34:27.059426Z,P1,r_5745ed2b,T3_add,error,910,validation_error
+2026-01-19T20:34:36.899667Z,P1,r_2527b7f4,T2_edit,error,680,no_error_message
+2026-01-19T20:34:45.595518Z,P1,r_c7ce8da5,T2_edit,error,705,no_error_message
+2026-01-19T20:34:53.341785Z,P1,r_70e9bd44,T1_filter,success,515,
+2026-01-19T20:34:54.403613Z,P1,r_c8585682,T1_filter,success,505,
+2026-01-19T20:35:00.842286Z,P2,r_72d253b8,T1_filter,success,540,
+2026-01-19T20:35:10.310540Z,P2,r_139faff4,T4_delete,error,890,confirmation_missed
+2026-01-19T20:35:42.925302Z,P2,r_d439c316,T0_list,success,410,
+2026-01-19T20:35:49.958999Z,P2,r_9b57541d,T3_add,success,295,
+2026-01-19T20:36:12.645629Z,P2,r_9d9b8344,T2_edit,error,720,no_error_message
+2026-01-19T20:36:39.623798Z,P2,r_6df3b119,T3_add,success,305,
+2026-01-19T20:36:55.962544Z,P2,r_23e240bd,T4_delete,success,560,
+2026-01-19T20:37:02.284336Z,P2,r_f0636513,T2_edit,error,695,no_error_message

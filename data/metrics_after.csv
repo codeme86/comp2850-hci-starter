@@ -1,0 +1,12 @@
+timestamp,participant_id,request_id,task_id,outcome,duration_ms,error
+2026-01-21T18:10:12.114392Z,P1,r_b91a2f44,T0_list,success,120,
+2026-01-21T18:10:28.443210Z,P1,r_4c7d9a12,T3_add,success,260,
+2026-01-21T18:10:41.901233Z,P1,r_8a6d2c09,T3_add,success,245,
+2026-01-21T18:10:53.332198Z,P1,r_f3c2aa91,T2_edit,success,270,
+2026-01-21T18:11:02.664019Z,P1,r_d118bc32,T1_filter,success,310,
+2026-01-21T18:11:14.229301Z,P1,r_9ab43c10,T4_delete,success,420,
+2026-01-21T18:11:29.882104Z,P2,r_1c9a441a,T0_list,success,190,
+2026-01-21T18:11:44.553118Z,P2,r_55fa9012,T3_add,success,275,
+2026-01-21T18:11:58.337401Z,P2,r_9ed2aa77,T2_edit,success,265,
+2026-01-21T18:12:10.994233Z,P2,r_0a7c91be,T1_filter,success,330,
+2026-01-21T18:12:25.118903Z,P2,r_b12dd901,T4_delete,success,400
